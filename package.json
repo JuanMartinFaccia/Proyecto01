@@ -1,0 +1,26 @@
+{
+  "name": "proyecto01",
+  "version": "1.0.0",
+  "description": "Página para portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+		"sass": "sass",
+		"sass:watch": "sass --watch scss/main.scss  css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMartinFaccia/Proyecto01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMartinFaccia/Proyecto01/issues"
+  },
+  "homepage": "https://github.com/JuanMartinFaccia/Proyecto01#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
